@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR" #"en-US"
-title                    : "Site Title"
+title                    : "U-Jin's Blog" #"Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "U-Jin" #"Your Name"
+description              : "Is it works?" #"An amazing website."
 url                      : "https://ujin4.github.io" ## the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "ujin4/ujin4.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
